@@ -23,6 +23,7 @@ Every organization manages data at some level, that being said, all businesses g
 However, there is a difference between businesses managing and consider data to be a valuable asset and treat it accordingly.
 The difference is characterised by the degree to which there are formalities in managing data.
 Enterprise information management (EIM) is a discipline that recognizes the value of an organization's information assets, focusing on effective data governance and technology use to elevate data into shared assets.
+
 Data Governance vs Data Management:
 
 Data governance and data management are often confused in the EIM space, with data governance focusing on roles, policies, and data lifecycle, while data management involves technical implementation of data governance through databases, data warehouses, and analytics software.
@@ -40,37 +41,59 @@ Without formalized data governance, organizations may struggle to achieve these 
 Creating a Data Governance Program:
 
 Data governance is a crucial aspect of managing and delivering data to an organization.
-It involves: 1. Defining the vision, goals, and benefits. 2. Analyzing the current state of data governance and management. 3. Developing a proposal. 4. Gaining leadership approval. 5. Designing and developing the program. 6. Implementing the proram. 7. Monitoring and measuring performance. 8. Maintaining the program.
+It involves: 
+
+1. Defining the vision, goals, and benefits. 
+
+2. Analyzing the current state of data governance and management.
+
+3. Developing a proposal.
+
+4. Gaining leadership approval.
+
+5.  Designing and developing the program.
+
+6. Implementing the proram.
+
+7.Monitoring and measuring performance. 8. Maintaining the program.
+
 The approach to data governance varies depending on the business's sophistication and nature.
 Data governance is achieved through a set of common elements, including actions taken by team members, policies and processes followed, and the use of technologies throughout the data lifecycle.
 As a discipline, data governance is becoming increasingly important for many organizations.
+
 Developing a Data Governance Framework:
 
 Data governance programs cannot be purchased off the shelf, but organizations must implement them based on their level of interest, needs, budget, and capabilities.
 A modest effort can yield meaningful results. The data governance framework, a set of guiding concepts and structure, is essential for implementing these elements.
 Different degrees of implementation can be pursued, and the course teaches you to decide what makes the most sense for your organization.
 The COBIT IT governance framework shares common components addressing people, processes, and technology.
+
 Leadership and Strategy:
 
 Data governance programs must align with the organization's strategy, ensuring a clear alignment between data's role in risk management, innovation, and operational efficiencies.
 A disconnect between business goals and data governance is the main reason for failure.
 To ensure success, senior leadership must support and agree on mapping organizational strategy to data governance, as without their support, data governance efforts will fail.
+
 Roles and Responsibilities:
 
 Data governance programs require the right people at the right time, with specific roles and responsibilities assigned from IT teams to data stewards.
 However, understanding that data governance requires responsibilities from nearly everyone is crucial.
+
 Policies, Processes, and Standards:
 
 Data governance programs rely on policies, processes, and standards to guide responsibilities and maintain uniformity across the organization.
 These must be designed, developed, and deployed, requiring significant effort depending on the size and complexity of the organization.
+
 Metrics:
 
 The data governance program should have a mechanism to measure its performance, capturing metrics and delivering them to stakeholders for support and funding.
 This allows for continuous improvements or radical changes to ensure the program is producing value and delivering expected results.
+
 Tools:
 
 A vast marketplace exists for data governance and management tools, including master data management, data catalogs, search, security, integration, analytics, and compliance.
 These tools have democratized data management, empowering more team members to better manage and derive value from data.
+
 Communications and Collaboration:
 
 Data governance requires high-quality communication, including in-person meetings, emails, newsletters, and workshops.
@@ -78,6 +101,7 @@ Change management is crucial to ensure impacted team members understand the chan
 Collaboration among diverse stakeholders is essential for effective data governance.
 A positive culture, clear channels, and online platforms are essential for success.
 Regular meetings and online platforms are increasingly used for effective communication.
+
 Preparing the Data Governance:
 
 Data governance is not a simple process of forming a team, creating a plan, and purchasing tools.
@@ -85,12 +109,14 @@ It requires careful treatment, starting with understanding an organization's rea
 This involves determining the extent to which a data culture exists, as an immature, reactive culture is different from a sophisticated data-driven culture.
 Additionally, ensuring the organization's strategy is fully aligned with the proposed program is crucial for success.
 A checklist can help evaluate an organization's readiness for a data governance program.
+
 What is data culture?
 
 Many well-designed projects fail due to unprepared environments or inadequate conditions for success.
 A study by IDC found that 70% of organizations failing due to lack of a prerequisite data culture to support technological upgrades.
 Culture will always defeat the greatest strategies, and every organization has some form of a data culture, but it might not be in an ideal state.
 Therefore, organizations should focus on developing a strong data culture to ensure successful implementation.
+
 Assessing the Data Culture:
 
 To increase your chances of success, it is essential to understand your organization's data culture and how it values and manages data.
@@ -104,9 +130,26 @@ Trust is also crucial for team members to make data-driven decisions.
 To assess the maturity of your organization's data culture, interview leaders and team members, observe decision-making processes, communication, and data governance.
 If your data culture is sufficient for a data governance program, you are in good shape.
 Implementing data governance will be a positive and important contributing factor to building a data culture.
+
 Maturing the Data Culture:
 
-Data Governance Preparation Course • Help leaders communicate data value and prioritize it. • Provide basic tools and education for data use. • Highlight the capabilities of common applications like spreadsheets. • Show progress through small steps, not complex solutions. • Recognize resistance and frustration as part of the journey. • Provide comfort and rewards to team members. • Provide a channel for feedback and positive discussion.
+Data Governance Preparation Course 
+
+• Help leaders communicate data value and prioritize it. 
+• Provide basic tools and education for data use. 
+• Highlight the capabilities of common applications like spreadsheets. 
+• Show progress through small steps, not complex solutions. 
+• Recognize resistance and frustration as part of the journey. 
+• Provide comfort and rewards to team members. 
+• Provide a channel for feedback and positive discussion.
+
 Assessing Data Governance Readiness:
 
-Data Governance Program Design and Preparation • Identifying the readiness of an organization for a data governance program is crucial. • The program should align with business strategy, with senior leadership fully committed to its goals. • The program should be a strategic, enterprise initiative, not solely IT department-related. • Executive sponsors should be identified at the executive level. • The program should be funded and maintained long-term. • The program should be an ongoing project, not a one-off project. • Documentation of return-on-investment (ROI) is essential. • Legal and compliance teams should support the program's goals. • Fundamental data skills are necessary for the data governance journey. • The IT organization should be capable and resourced to support the program.
+Data Governance Program Design and Preparation 
+• Identifying the readiness of an organization for a data governance program is crucial. 
+• The program should align with business strategy, with senior leadership fully committed to its goals. 
+• The program should be a strategic, enterprise initiative, not solely IT department-related. 
+• Executive sponsors should be identified at the executive level. • The program should be funded and maintained long-term. 
+• The program should be an ongoing project, not a one-off project. • Documentation of return-on-investment (ROI) is essential. 
+• Legal and compliance teams should support the program's goals. • Fundamental data skills are necessary for the data governance journey. 
+• The IT organization should be capable and resourced to support the program.
