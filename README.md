@@ -153,3 +153,22 @@ Data Governance Program Design and Preparation
 • The program should be an ongoing project, not a one-off project. • Documentation of return-on-investment (ROI) is essential. 
 • Legal and compliance teams should support the program's goals. • Fundamental data skills are necessary for the data governance journey. 
 • The IT organization should be capable and resourced to support the program.
+
+
+Defining Data:
+
+Data is a common and widely used tool in our daily lives, often taken for granted.
+However, when asked to define data, it may not be entirely accurate or even the same as colleagues' definitions.
+It's crucial to ensure everyone is on the same page about data's meaning, especially when discussing information, knowledge, and insights.
+It's even more important to understand data governance and management, as data governance is different from data management.
+A solid definition of data and its role today helps us align ourselves and deliver on the promise of data governance.
+It's essential to be on the same page and ensure everyone is on the same page about data.
+
+Welcome to the Zettabyte Era:
+
+A zettabyte is a large number, representing the volume of data created and stored in the 21st century.
+It is 1021 bytes, or a 1 with 21 zeros. By 2020, we had created 64 zettabytes of data, and this number is projected to reach over 100 zettabytes by 2023.
+The datasphere, which describes all data created, is projected to double in 3-4 years.
+Each byte is made up of eight bits, which are binary and represent characters that humans can understand.
+As data volume continues to grow, other terms will be used to describe even bigger volumes, such as Yottabyte and Brontobyte eras.
+Effective data management is crucial in this rapidly expanding data volume, as managing small amounts of data can be challenging.
